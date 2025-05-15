@@ -114,4 +114,4 @@ Open a pull request.
 Contact
 Built by Amresh
 
-Built with Streamlit & Google Gemini | xAI | May 2025
+Built with Streamlit & Google Gemini | May 2025
