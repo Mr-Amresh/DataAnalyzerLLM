@@ -18,7 +18,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # 🔹 Gemini API Configuration
-GEMINI_API_KEY = "AIzaSyACqjXQAfqP2NX3pcAwdbQ3XX_-Z_MJZqY"  # Replace with actual key
+GEMINI_API_KEY = "Your API key"  # Replace with actual key
 #genai.configure(api_key="AIzaSyDwLiS2uHId79Lhn2mwdr7dhNHZXYoHZl0")  # Replace with your valid API key
 #GEMINI_MODEL = "gemini-1.5-flash-001-tuning" 
 try:
